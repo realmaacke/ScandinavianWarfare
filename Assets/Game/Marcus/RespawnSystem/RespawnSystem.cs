@@ -21,7 +21,7 @@ public class RespawnSystem : MonoBehaviour
 		if (Input.GetKeyDown(KeyCode.C))
 			takedamage(10);
 
-		if (health <= 0)
+		if (health >= 0)
 		{
 			Die();
 		}
