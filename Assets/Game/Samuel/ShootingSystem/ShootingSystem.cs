@@ -1,4 +1,7 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
+using UnityEngine.Rendering;
+using UnityEngine.UI;
 
 public class ShootingSystem : MonoBehaviour
 {
