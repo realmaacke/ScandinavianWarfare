@@ -7,7 +7,7 @@ public class RespawnSystem : MonoBehaviour
 
 
 	public GameObject FPS;
-	public Transform spawnpoint;
+	//public Transform spawnpoint;
 
 	public int health;
 
@@ -23,7 +23,7 @@ public class RespawnSystem : MonoBehaviour
 
 		if (health >= 0)
 		{
-			Die();
+			//Die();
 		}
 	}
 
@@ -32,17 +32,17 @@ public class RespawnSystem : MonoBehaviour
 		damage -= health;
 
 	}
-	public void Die()
-	{
-		StartCoroutine(Respawn());
-	}
+	//public void Die()
+	//{
+	//	StartCoroutine(Respawn());
+	//}
 
-	IEnumerator Respawn()
-	{
-		yield return new WaitForSeconds(5f);
-		Instantiate(FPS, spawnpoint.position, Quaternion.identity); // Spawning Prefab at RespawnPoint
-		Debug.Log("Respawned");
-	}
+	//IEnumerator Respawn()
+	//{
+	//	yield return new WaitForSeconds(5f);
+	//	Instantiate(FPS, spawnpoint.position, Quaternion.identity); // Spawning Prefab at RespawnPoint
+	//	Debug.Log("Respawned");
+	//}
 
 
 
