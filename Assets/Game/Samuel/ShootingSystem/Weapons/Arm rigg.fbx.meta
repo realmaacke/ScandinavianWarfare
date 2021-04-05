@@ -1,11 +1,1014 @@
 fileFormatVersion: 2
 guid: 5ac4f089f040ba3419fb3adf0965554d
 ModelImporter:
-  serializedVersion: 19301
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ak
+    100002: Ak Arm
+    100004: Ak arms
+    100006: //RootNode
+    100008: Bone.001
+    100010: Bone.001 1
+    100012: Bone.001 2
+    100014: Bone.001 3
+    100016: Bone.001 4
+    100018: Bone.002
+    100020: Bone.002 1
+    100022: Bone.002 2
+    100024: Bone.002 3
+    100026: Bone.002 4
+    100028: Bone.003
+    100030: Bone.003 1
+    100032: Bone.003 2
+    100034: Bone.003 3
+    100036: Bone.003 4
+    100038: Bone.004
+    100040: Bone.004 1
+    100042: Bone.004 2
+    100044: Bone.004 3
+    100046: Bone.004 4
+    100048: Bone.005
+    100050: Bone.005 1
+    100052: Bone.005 2
+    100054: Bone.005 3
+    100056: Bone.005 4
+    100058: Bone.006
+    100060: Bone.006 1
+    100062: Bone.006 2
+    100064: Bone.006 3
+    100066: Bone.006 4
+    100068: Bone.007
+    100070: Bone.007 1
+    100072: Bone.007 2
+    100074: Bone.007 3
+    100076: Bone.007 4
+    100078: Bone.008
+    100080: Bone.008 1
+    100082: Bone.008 2
+    100084: Bone.008 3
+    100086: Bone.008 4
+    100088: Bone.008_end
+    100090: Bone.008_end 1
+    100092: Bone.008_end 2
+    100094: Bone.008_end 3
+    100096: Bone.008_end 4
+    100098: Bone.009
+    100100: Bone.009 1
+    100102: Bone.009 2
+    100104: Bone.009 3
+    100106: Bone.009 4
+    100108: Bone.010
+    100110: Bone.010 1
+    100112: Bone.010 2
+    100114: Bone.010 3
+    100116: Bone.010 4
+    100118: Bone.011
+    100120: Bone.011 1
+    100122: Bone.011 2
+    100124: Bone.011 3
+    100126: Bone.011 4
+    100128: Bone.011_end
+    100130: Bone.011_end 1
+    100132: Bone.011_end 2
+    100134: Bone.011_end 3
+    100136: Bone.011_end 4
+    100138: Bone.012
+    100140: Bone.012 1
+    100142: Bone.012 2
+    100144: Bone.012 3
+    100146: Bone.012 4
+    100148: Bone.013
+    100150: Bone.013 1
+    100152: Bone.013 2
+    100154: Bone.013 3
+    100156: Bone.013 4
+    100158: Bone.014
+    100160: Bone.014 1
+    100162: Bone.014 2
+    100164: Bone.014 3
+    100166: Bone.014 4
+    100168: Bone.014_end
+    100170: Bone.014_end 1
+    100172: Bone.014_end 2
+    100174: Bone.014_end 3
+    100176: Bone.014_end 4
+    100178: Bone.015
+    100180: Bone.015 1
+    100182: Bone.015 2
+    100184: Bone.015 3
+    100186: Bone.015 4
+    100188: Bone.016
+    100190: Bone.016 1
+    100192: Bone.016 2
+    100194: Bone.016 3
+    100196: Bone.016 4
+    100198: Bone.017
+    100200: Bone.017 1
+    100202: Bone.017 2
+    100204: Bone.017 3
+    100206: Bone.017 4
+    100208: Bone.017_end
+    100210: Bone.017_end 1
+    100212: Bone.017_end 2
+    100214: Bone.017_end 3
+    100216: Bone.017_end 4
+    100218: Bone.018
+    100220: Bone.018 1
+    100222: Bone.018 2
+    100224: Bone.018 3
+    100226: Bone.018 4
+    100228: Bone.019
+    100230: Bone.019 1
+    100232: Bone.019 2
+    100234: Bone.019 3
+    100236: Bone.019 4
+    100238: Bone.019_end
+    100240: Bone.019_end 1
+    100242: Bone.019_end 2
+    100244: Bone.019_end 3
+    100246: Bone.019_end 4
+    100248: Bone.020
+    100250: Bone.020 1
+    100252: Bone.020 2
+    100254: Bone.020 3
+    100256: Bone.020 4
+    100258: Bone.021
+    100260: Bone.021 1
+    100262: Bone.021 2
+    100264: Bone.021 3
+    100266: Bone.021 4
+    100268: Bone.022
+    100270: Bone.022 1
+    100272: Bone.022 2
+    100274: Bone.022 3
+    100276: Bone.022 4
+    100278: Bone.023
+    100280: Bone.023 1
+    100282: Bone.023 2
+    100284: Bone.023 3
+    100286: Bone.023 4
+    100288: Bone.023_end
+    100290: Bone.023_end 1
+    100292: Bone.023_end 2
+    100294: Bone.023_end 3
+    100296: Bone.023_end 4
+    100298: Bone.024
+    100300: Bone.024 1
+    100302: Bone.024 2
+    100304: Bone.024 3
+    100306: Bone.024 4
+    100308: Bone.025
+    100310: Bone.025 1
+    100312: Bone.025 2
+    100314: Bone.025 3
+    100316: Bone.025 4
+    100318: Bone.026
+    100320: Bone.026 1
+    100322: Bone.026 2
+    100324: Bone.026 3
+    100326: Bone.026 4
+    100328: Bone.027
+    100330: Bone.027 1
+    100332: Bone.027 2
+    100334: Bone.027 3
+    100336: Bone.027 4
+    100338: Bone.027_end
+    100340: Bone.027_end 1
+    100342: Bone.027_end 2
+    100344: Bone.027_end 3
+    100346: Bone.027_end 4
+    100348: Bone.028
+    100350: Bone.028 1
+    100352: Bone.028 2
+    100354: Bone.028 3
+    100356: Bone.028 4
+    100358: Bone.029
+    100360: Bone.029 1
+    100362: Bone.029 2
+    100364: Bone.029 3
+    100366: Bone.029 4
+    100368: Bone.030
+    100370: Bone.030 1
+    100372: Bone.030 2
+    100374: Bone.030 3
+    100376: Bone.030 4
+    100378: Bone.031
+    100380: Bone.031 1
+    100382: Bone.031 2
+    100384: Bone.031 3
+    100386: Bone.031 4
+    100388: Bone.031_end
+    100390: Bone.031_end 1
+    100392: Bone.031_end 2
+    100394: Bone.031_end 3
+    100396: Bone.031_end 4
+    100398: Bone.032
+    100400: Bone.032 1
+    100402: Bone.032 2
+    100404: Bone.032 3
+    100406: Bone.032 4
+    100408: Bone.033
+    100410: Bone.033 1
+    100412: Bone.033 2
+    100414: Bone.033 3
+    100416: Bone.033 4
+    100418: Bone.034
+    100420: Bone.034 1
+    100422: Bone.034 2
+    100424: Bone.034 3
+    100426: Bone.034 4
+    100428: Bone.035
+    100430: Bone.035 1
+    100432: Bone.035 2
+    100434: Bone.035 3
+    100436: Bone.035 4
+    100438: Bone.035_end
+    100440: Bone.035_end 1
+    100442: Bone.035_end 2
+    100444: Bone.035_end 3
+    100446: Bone.035_end 4
+    100448: Bone.036
+    100450: Bone.036 1
+    100452: Bone.036 2
+    100454: Bone.036 3
+    100456: Bone.036 4
+    100458: Bone.037
+    100460: Bone.037 1
+    100462: Bone.037 2
+    100464: Bone.037 3
+    100466: Bone.037 4
+    100468: Bone.038
+    100470: Bone.038 1
+    100472: Bone.038 2
+    100474: Bone.038 3
+    100476: Bone.038 4
+    100478: Bone.039
+    100480: Bone.039 1
+    100482: Bone.039 2
+    100484: Bone.039 3
+    100486: Bone.039 4
+    100488: Bone.039_end
+    100490: Bone.039_end 1
+    100492: Bone.039_end 2
+    100494: Bone.039_end 3
+    100496: Bone.039_end 4
+    100498: Bone.040
+    100500: Bone.040 1
+    100502: Bone.040 2
+    100504: Bone.040 3
+    100506: Bone.040 4
+    100508: Bone.041
+    100510: Bone.041 1
+    100512: Bone.041 2
+    100514: Bone.041 3
+    100516: Bone.041 4
+    100518: Bone.042
+    100520: Bone.042 1
+    100522: Bone.042 2
+    100524: Bone.042 3
+    100526: Bone.042 4
+    100528: Bone.043
+    100530: Bone.043 1
+    100532: Bone.043 2
+    100534: Bone.043 3
+    100536: Bone.043 4
+    100538: Bone.043_end
+    100540: Bone.043_end 1
+    100542: Bone.043_end 2
+    100544: Bone.043_end 3
+    100546: Bone.043_end 4
+    100548: Bone.044
+    100550: Bone.044 1
+    100552: Bone.044 2
+    100554: Bone.044 3
+    100556: Bone.044 4
+    100558: Bone.045
+    100560: Bone.045 1
+    100562: Bone.045 2
+    100564: Bone.045 3
+    100566: Bone.045 4
+    100568: Bone.046
+    100570: Bone.046 1
+    100572: Bone.046 2
+    100574: Bone.046 3
+    100576: Bone.046 4
+    100578: Bone.047
+    100580: Bone.047 1
+    100582: Bone.047 2
+    100584: Bone.047 3
+    100586: Bone.047 4
+    100588: Bone.047_end
+    100590: Bone.047_end 1
+    100592: Bone.047_end 2
+    100594: Bone.047_end 3
+    100596: Bone.047_end 4
+    100598: Camera
+    100600: Circle
+    100602: Circle.001
+    100604: Circle.002
+    100606: Circle.003
+    100608: Circle.004
+    100610: Circle.005
+    100612: Circle.006
+    100614: Circle.007
+    100616: Circle.008
+    100618: Circle.009
+    100620: Circle.010
+    100622: Circle.011
+    100624: Circle.012
+    100626: Circle.014
+    100628: Circle.015
+    100630: Circle.016
+    100632: Cube.001
+    100634: Cube.002
+    100636: Cube.003
+    100638: Cube.004
+    100640: Cube.005
+    100642: Cube.006
+    100644: Cube.007
+    100646: Cube.008
+    100648: Cube.009
+    100650: Cube.010
+    100652: Cube.011
+    100654: Cube.012
+    100656: Cube.014
+    100658: Cube.015
+    100660: Cube.016
+    100662: Cube.017
+    100664: Cube.018
+    100666: Cube.019
+    100668: Cube.020
+    100670: Cube.021
+    100672: Cube.022
+    100674: Cube.023
+    100676: Cube.024
+    100678: Cube.025
+    100680: Cube.026
+    100682: Cube.027
+    100684: Cube.028
+    100686: Cube.029
+    100688: Cube.030
+    100690: Cube.031
+    100692: Cube.032
+    100694: Cube.033
+    100696: Cube.034
+    100698: Cube.035
+    100700: Cube.037
+    100702: Cube.039
+    100704: Cube.040
+    100706: Cube.041
+    100708: Cube.042
+    100710: Driver controller
+    100712: Driver controller.001
+    100714: Driver controller.002
+    100716: Driver controller.003
+    100718: Driver controller.004
+    100720: Glock
+    100722: Glock Arm
+    100724: Glock Arms
+    100726: Knife
+    100728: Knife Arm.002
+    100730: Knife Arms
+    100732: Left poletarget
+    100734: Left poletarget 1
+    100736: Left poletarget 2
+    100738: Left poletarget 3
+    100740: Left poletarget 4
+    100742: Left poletarget_end
+    100744: Left poletarget_end 1
+    100746: Left poletarget_end 2
+    100748: Left poletarget_end 3
+    100750: Left poletarget_end 4
+    100752: Plane
+    100754: Right poletarget
+    100756: Right poletarget 1
+    100758: Right poletarget 2
+    100760: Right poletarget 3
+    100762: Right poletarget 4
+    100764: Right poletarget_end
+    100766: Right poletarget_end 1
+    100768: Right poletarget_end 2
+    100770: Right poletarget_end 3
+    100772: Right poletarget_end 4
+    100774: Shotgun
+    100776: Shotgun Arm.001
+    100778: Shotgun arms
+    100780: Sniper
+    100782: Sniper Arm.001
+    100784: Sniper Arms
+    400000: Ak
+    400002: Ak Arm
+    400004: Ak arms
+    400006: //RootNode
+    400008: Bone.001
+    400010: Bone.001 1
+    400012: Bone.001 2
+    400014: Bone.001 3
+    400016: Bone.001 4
+    400018: Bone.002
+    400020: Bone.002 1
+    400022: Bone.002 2
+    400024: Bone.002 3
+    400026: Bone.002 4
+    400028: Bone.003
+    400030: Bone.003 1
+    400032: Bone.003 2
+    400034: Bone.003 3
+    400036: Bone.003 4
+    400038: Bone.004
+    400040: Bone.004 1
+    400042: Bone.004 2
+    400044: Bone.004 3
+    400046: Bone.004 4
+    400048: Bone.005
+    400050: Bone.005 1
+    400052: Bone.005 2
+    400054: Bone.005 3
+    400056: Bone.005 4
+    400058: Bone.006
+    400060: Bone.006 1
+    400062: Bone.006 2
+    400064: Bone.006 3
+    400066: Bone.006 4
+    400068: Bone.007
+    400070: Bone.007 1
+    400072: Bone.007 2
+    400074: Bone.007 3
+    400076: Bone.007 4
+    400078: Bone.008
+    400080: Bone.008 1
+    400082: Bone.008 2
+    400084: Bone.008 3
+    400086: Bone.008 4
+    400088: Bone.008_end
+    400090: Bone.008_end 1
+    400092: Bone.008_end 2
+    400094: Bone.008_end 3
+    400096: Bone.008_end 4
+    400098: Bone.009
+    400100: Bone.009 1
+    400102: Bone.009 2
+    400104: Bone.009 3
+    400106: Bone.009 4
+    400108: Bone.010
+    400110: Bone.010 1
+    400112: Bone.010 2
+    400114: Bone.010 3
+    400116: Bone.010 4
+    400118: Bone.011
+    400120: Bone.011 1
+    400122: Bone.011 2
+    400124: Bone.011 3
+    400126: Bone.011 4
+    400128: Bone.011_end
+    400130: Bone.011_end 1
+    400132: Bone.011_end 2
+    400134: Bone.011_end 3
+    400136: Bone.011_end 4
+    400138: Bone.012
+    400140: Bone.012 1
+    400142: Bone.012 2
+    400144: Bone.012 3
+    400146: Bone.012 4
+    400148: Bone.013
+    400150: Bone.013 1
+    400152: Bone.013 2
+    400154: Bone.013 3
+    400156: Bone.013 4
+    400158: Bone.014
+    400160: Bone.014 1
+    400162: Bone.014 2
+    400164: Bone.014 3
+    400166: Bone.014 4
+    400168: Bone.014_end
+    400170: Bone.014_end 1
+    400172: Bone.014_end 2
+    400174: Bone.014_end 3
+    400176: Bone.014_end 4
+    400178: Bone.015
+    400180: Bone.015 1
+    400182: Bone.015 2
+    400184: Bone.015 3
+    400186: Bone.015 4
+    400188: Bone.016
+    400190: Bone.016 1
+    400192: Bone.016 2
+    400194: Bone.016 3
+    400196: Bone.016 4
+    400198: Bone.017
+    400200: Bone.017 1
+    400202: Bone.017 2
+    400204: Bone.017 3
+    400206: Bone.017 4
+    400208: Bone.017_end
+    400210: Bone.017_end 1
+    400212: Bone.017_end 2
+    400214: Bone.017_end 3
+    400216: Bone.017_end 4
+    400218: Bone.018
+    400220: Bone.018 1
+    400222: Bone.018 2
+    400224: Bone.018 3
+    400226: Bone.018 4
+    400228: Bone.019
+    400230: Bone.019 1
+    400232: Bone.019 2
+    400234: Bone.019 3
+    400236: Bone.019 4
+    400238: Bone.019_end
+    400240: Bone.019_end 1
+    400242: Bone.019_end 2
+    400244: Bone.019_end 3
+    400246: Bone.019_end 4
+    400248: Bone.020
+    400250: Bone.020 1
+    400252: Bone.020 2
+    400254: Bone.020 3
+    400256: Bone.020 4
+    400258: Bone.021
+    400260: Bone.021 1
+    400262: Bone.021 2
+    400264: Bone.021 3
+    400266: Bone.021 4
+    400268: Bone.022
+    400270: Bone.022 1
+    400272: Bone.022 2
+    400274: Bone.022 3
+    400276: Bone.022 4
+    400278: Bone.023
+    400280: Bone.023 1
+    400282: Bone.023 2
+    400284: Bone.023 3
+    400286: Bone.023 4
+    400288: Bone.023_end
+    400290: Bone.023_end 1
+    400292: Bone.023_end 2
+    400294: Bone.023_end 3
+    400296: Bone.023_end 4
+    400298: Bone.024
+    400300: Bone.024 1
+    400302: Bone.024 2
+    400304: Bone.024 3
+    400306: Bone.024 4
+    400308: Bone.025
+    400310: Bone.025 1
+    400312: Bone.025 2
+    400314: Bone.025 3
+    400316: Bone.025 4
+    400318: Bone.026
+    400320: Bone.026 1
+    400322: Bone.026 2
+    400324: Bone.026 3
+    400326: Bone.026 4
+    400328: Bone.027
+    400330: Bone.027 1
+    400332: Bone.027 2
+    400334: Bone.027 3
+    400336: Bone.027 4
+    400338: Bone.027_end
+    400340: Bone.027_end 1
+    400342: Bone.027_end 2
+    400344: Bone.027_end 3
+    400346: Bone.027_end 4
+    400348: Bone.028
+    400350: Bone.028 1
+    400352: Bone.028 2
+    400354: Bone.028 3
+    400356: Bone.028 4
+    400358: Bone.029
+    400360: Bone.029 1
+    400362: Bone.029 2
+    400364: Bone.029 3
+    400366: Bone.029 4
+    400368: Bone.030
+    400370: Bone.030 1
+    400372: Bone.030 2
+    400374: Bone.030 3
+    400376: Bone.030 4
+    400378: Bone.031
+    400380: Bone.031 1
+    400382: Bone.031 2
+    400384: Bone.031 3
+    400386: Bone.031 4
+    400388: Bone.031_end
+    400390: Bone.031_end 1
+    400392: Bone.031_end 2
+    400394: Bone.031_end 3
+    400396: Bone.031_end 4
+    400398: Bone.032
+    400400: Bone.032 1
+    400402: Bone.032 2
+    400404: Bone.032 3
+    400406: Bone.032 4
+    400408: Bone.033
+    400410: Bone.033 1
+    400412: Bone.033 2
+    400414: Bone.033 3
+    400416: Bone.033 4
+    400418: Bone.034
+    400420: Bone.034 1
+    400422: Bone.034 2
+    400424: Bone.034 3
+    400426: Bone.034 4
+    400428: Bone.035
+    400430: Bone.035 1
+    400432: Bone.035 2
+    400434: Bone.035 3
+    400436: Bone.035 4
+    400438: Bone.035_end
+    400440: Bone.035_end 1
+    400442: Bone.035_end 2
+    400444: Bone.035_end 3
+    400446: Bone.035_end 4
+    400448: Bone.036
+    400450: Bone.036 1
+    400452: Bone.036 2
+    400454: Bone.036 3
+    400456: Bone.036 4
+    400458: Bone.037
+    400460: Bone.037 1
+    400462: Bone.037 2
+    400464: Bone.037 3
+    400466: Bone.037 4
+    400468: Bone.038
+    400470: Bone.038 1
+    400472: Bone.038 2
+    400474: Bone.038 3
+    400476: Bone.038 4
+    400478: Bone.039
+    400480: Bone.039 1
+    400482: Bone.039 2
+    400484: Bone.039 3
+    400486: Bone.039 4
+    400488: Bone.039_end
+    400490: Bone.039_end 1
+    400492: Bone.039_end 2
+    400494: Bone.039_end 3
+    400496: Bone.039_end 4
+    400498: Bone.040
+    400500: Bone.040 1
+    400502: Bone.040 2
+    400504: Bone.040 3
+    400506: Bone.040 4
+    400508: Bone.041
+    400510: Bone.041 1
+    400512: Bone.041 2
+    400514: Bone.041 3
+    400516: Bone.041 4
+    400518: Bone.042
+    400520: Bone.042 1
+    400522: Bone.042 2
+    400524: Bone.042 3
+    400526: Bone.042 4
+    400528: Bone.043
+    400530: Bone.043 1
+    400532: Bone.043 2
+    400534: Bone.043 3
+    400536: Bone.043 4
+    400538: Bone.043_end
+    400540: Bone.043_end 1
+    400542: Bone.043_end 2
+    400544: Bone.043_end 3
+    400546: Bone.043_end 4
+    400548: Bone.044
+    400550: Bone.044 1
+    400552: Bone.044 2
+    400554: Bone.044 3
+    400556: Bone.044 4
+    400558: Bone.045
+    400560: Bone.045 1
+    400562: Bone.045 2
+    400564: Bone.045 3
+    400566: Bone.045 4
+    400568: Bone.046
+    400570: Bone.046 1
+    400572: Bone.046 2
+    400574: Bone.046 3
+    400576: Bone.046 4
+    400578: Bone.047
+    400580: Bone.047 1
+    400582: Bone.047 2
+    400584: Bone.047 3
+    400586: Bone.047 4
+    400588: Bone.047_end
+    400590: Bone.047_end 1
+    400592: Bone.047_end 2
+    400594: Bone.047_end 3
+    400596: Bone.047_end 4
+    400598: Camera
+    400600: Circle
+    400602: Circle.001
+    400604: Circle.002
+    400606: Circle.003
+    400608: Circle.004
+    400610: Circle.005
+    400612: Circle.006
+    400614: Circle.007
+    400616: Circle.008
+    400618: Circle.009
+    400620: Circle.010
+    400622: Circle.011
+    400624: Circle.012
+    400626: Circle.014
+    400628: Circle.015
+    400630: Circle.016
+    400632: Cube.001
+    400634: Cube.002
+    400636: Cube.003
+    400638: Cube.004
+    400640: Cube.005
+    400642: Cube.006
+    400644: Cube.007
+    400646: Cube.008
+    400648: Cube.009
+    400650: Cube.010
+    400652: Cube.011
+    400654: Cube.012
+    400656: Cube.014
+    400658: Cube.015
+    400660: Cube.016
+    400662: Cube.017
+    400664: Cube.018
+    400666: Cube.019
+    400668: Cube.020
+    400670: Cube.021
+    400672: Cube.022
+    400674: Cube.023
+    400676: Cube.024
+    400678: Cube.025
+    400680: Cube.026
+    400682: Cube.027
+    400684: Cube.028
+    400686: Cube.029
+    400688: Cube.030
+    400690: Cube.031
+    400692: Cube.032
+    400694: Cube.033
+    400696: Cube.034
+    400698: Cube.035
+    400700: Cube.037
+    400702: Cube.039
+    400704: Cube.040
+    400706: Cube.041
+    400708: Cube.042
+    400710: Driver controller
+    400712: Driver controller.001
+    400714: Driver controller.002
+    400716: Driver controller.003
+    400718: Driver controller.004
+    400720: Glock
+    400722: Glock Arm
+    400724: Glock Arms
+    400726: Knife
+    400728: Knife Arm.002
+    400730: Knife Arms
+    400732: Left poletarget
+    400734: Left poletarget 1
+    400736: Left poletarget 2
+    400738: Left poletarget 3
+    400740: Left poletarget 4
+    400742: Left poletarget_end
+    400744: Left poletarget_end 1
+    400746: Left poletarget_end 2
+    400748: Left poletarget_end 3
+    400750: Left poletarget_end 4
+    400752: Plane
+    400754: Right poletarget
+    400756: Right poletarget 1
+    400758: Right poletarget 2
+    400760: Right poletarget 3
+    400762: Right poletarget 4
+    400764: Right poletarget_end
+    400766: Right poletarget_end 1
+    400768: Right poletarget_end 2
+    400770: Right poletarget_end 3
+    400772: Right poletarget_end 4
+    400774: Shotgun
+    400776: Shotgun Arm.001
+    400778: Shotgun arms
+    400780: Sniper
+    400782: Sniper Arm.001
+    400784: Sniper Arms
+    2000000: Camera
+    2100000: No Name
+    2100002: Material.005
+    2100004: Material.003
+    2100006: Material.002
+    2100008: Material
+    2100010: Material.004
+    2300000: Ak
+    2300002: Circle
+    2300004: Circle.001
+    2300006: Circle.002
+    2300008: Circle.003
+    2300010: Circle.004
+    2300012: Circle.005
+    2300014: Circle.006
+    2300016: Circle.007
+    2300018: Circle.008
+    2300020: Circle.009
+    2300022: Circle.010
+    2300024: Circle.011
+    2300026: Circle.012
+    2300028: Circle.014
+    2300030: Circle.015
+    2300032: Circle.016
+    2300034: Cube.001
+    2300036: Cube.002
+    2300038: Cube.003
+    2300040: Cube.004
+    2300042: Cube.005
+    2300044: Cube.006
+    2300046: Cube.007
+    2300048: Cube.008
+    2300050: Cube.009
+    2300052: Cube.010
+    2300054: Cube.011
+    2300056: Cube.012
+    2300058: Cube.014
+    2300060: Cube.015
+    2300062: Cube.016
+    2300064: Cube.017
+    2300066: Cube.018
+    2300068: Cube.019
+    2300070: Cube.020
+    2300072: Cube.021
+    2300074: Cube.022
+    2300076: Cube.023
+    2300078: Cube.024
+    2300080: Cube.025
+    2300082: Cube.026
+    2300084: Cube.027
+    2300086: Cube.028
+    2300088: Cube.029
+    2300090: Cube.030
+    2300092: Cube.031
+    2300094: Cube.032
+    2300096: Cube.033
+    2300098: Cube.034
+    2300100: Cube.035
+    2300102: Cube.037
+    2300104: Cube.039
+    2300106: Cube.040
+    2300108: Cube.041
+    2300110: Cube.042
+    2300112: Driver controller
+    2300114: Driver controller.001
+    2300116: Driver controller.002
+    2300118: Driver controller.003
+    2300120: Driver controller.004
+    2300122: Glock
+    2300124: Knife
+    2300126: Plane
+    2300128: Shotgun
+    2300130: Sniper
+    3300000: Ak
+    3300002: Circle
+    3300004: Circle.001
+    3300006: Circle.002
+    3300008: Circle.003
+    3300010: Circle.004
+    3300012: Circle.005
+    3300014: Circle.006
+    3300016: Circle.007
+    3300018: Circle.008
+    3300020: Circle.009
+    3300022: Circle.010
+    3300024: Circle.011
+    3300026: Circle.012
+    3300028: Circle.014
+    3300030: Circle.015
+    3300032: Circle.016
+    3300034: Cube.001
+    3300036: Cube.002
+    3300038: Cube.003
+    3300040: Cube.004
+    3300042: Cube.005
+    3300044: Cube.006
+    3300046: Cube.007
+    3300048: Cube.008
+    3300050: Cube.009
+    3300052: Cube.010
+    3300054: Cube.011
+    3300056: Cube.012
+    3300058: Cube.014
+    3300060: Cube.015
+    3300062: Cube.016
+    3300064: Cube.017
+    3300066: Cube.018
+    3300068: Cube.019
+    3300070: Cube.020
+    3300072: Cube.021
+    3300074: Cube.022
+    3300076: Cube.023
+    3300078: Cube.024
+    3300080: Cube.025
+    3300082: Cube.026
+    3300084: Cube.027
+    3300086: Cube.028
+    3300088: Cube.029
+    3300090: Cube.030
+    3300092: Cube.031
+    3300094: Cube.032
+    3300096: Cube.033
+    3300098: Cube.034
+    3300100: Cube.035
+    3300102: Cube.037
+    3300104: Cube.039
+    3300106: Cube.040
+    3300108: Cube.041
+    3300110: Cube.042
+    3300112: Driver controller
+    3300114: Driver controller.001
+    3300116: Driver controller.002
+    3300118: Driver controller.003
+    3300120: Driver controller.004
+    3300122: Glock
+    3300124: Knife
+    3300126: Plane
+    3300128: Shotgun
+    3300130: Sniper
+    4300000: Driver controller.004
+    4300002: Shotgun
+    4300004: Cube.001
+    4300006: Cube.002
+    4300008: Circle
+    4300010: Circle.001
+    4300012: Circle.002
+    4300014: Cube.003
+    4300016: Circle.003
+    4300018: Cube.004
+    4300020: Cube.005
+    4300022: Circle.004
+    4300024: Circle.005
+    4300026: Cube.006
+    4300028: Circle.006
+    4300030: Cube.007
+    4300032: Cube.008
+    4300034: Cube.009
+    4300036: Shotgun arms
+    4300038: Driver controller.002
+    4300040: Sniper
+    4300042: Cube.025
+    4300044: Cube.026
+    4300046: Cube.027
+    4300048: Cube.028
+    4300050: Cube.029
+    4300052: Cube.032
+    4300054: Cube.030
+    4300056: Cube.035
+    4300058: Cube.034
+    4300060: Circle.011
+    4300062: Cube.033
+    4300064: Circle.012
+    4300066: Sniper Arms
+    4300068: Ak arms
+    4300070: Driver controller.001
+    4300072: Ak
+    4300074: Cube.010
+    4300076: Cube.011
+    4300078: Cube.012
+    4300080: Cube.014
+    4300082: Cube.015
+    4300084: Circle.008
+    4300086: Cube.020
+    4300088: Cube.016
+    4300090: Cube.017
+    4300092: Cube.018
+    4300094: Cube.019
+    4300096: Circle.007
+    4300098: Circle.009
+    4300100: Cube.021
+    4300102: Cube.022
+    4300104: Cube.023
+    4300106: Cube.024
+    4300108: Circle.010
+    4300110: Driver controller
+    4300112: Glock
+    4300114: Circle.015
+    4300116: Circle.016
+    4300118: Cube.037
+    4300120: Cube.039
+    4300122: Cube.040
+    4300124: Cube.041
+    4300126: Cube.042
+    4300128: Plane
+    4300130: Glock Arms
+    4300132: Knife Arms
+    4300134: Driver controller.003
+    4300136: Knife
+    4300138: Circle.014
+    4300140: Cube.031
+    9500000: //RootNode
+    13700000: Ak arms
+    13700002: Glock Arms
+    13700004: Knife Arms
+    13700006: Shotgun arms
+    13700008: Sniper Arms
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
-    materialImportMode: 1
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -38,28 +1041,25 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -68,10 +1068,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -81,16 +1081,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,11 +1,44 @@
 fileFormatVersion: 2
 guid: 98dcdd7ac14199a4d92f6d25977c21c0
 ModelImporter:
-  serializedVersion: 19300
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Ejection Port
+    100004: Fore-end
+    100006: Light
+    100008: Shotgun
+    100010: //RootNode
+    100012: Trigger
+    400000: Camera
+    400002: Ejection Port
+    400004: Fore-end
+    400006: Light
+    400008: Shotgun
+    400010: //RootNode
+    400012: Trigger
+    2000000: Camera
+    2100000: Material.002
+    2100002: Material.001
+    2100004: Material.003
+    2300000: Ejection Port
+    2300002: Fore-end
+    2300004: Shotgun
+    2300006: Trigger
+    3300000: Ejection Port
+    3300002: Fore-end
+    3300004: Shotgun
+    3300006: Trigger
+    4300000: Fore-end
+    4300002: Shotgun
+    4300004: Trigger
+    4300006: Ejection Port
+    9500000: //RootNode
+    10800000: Light
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
-    materialImportMode: 1
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -38,7 +71,6 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -46,19 +78,18 @@ ModelImporter:
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -67,10 +98,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -80,16 +111,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
