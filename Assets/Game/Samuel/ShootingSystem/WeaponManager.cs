@@ -2,6 +2,7 @@
 
 public class WeaponManager : MonoBehaviour
 {
+    //Selected weapon
     public int CurrentWeapon;
 
     private void Start()
@@ -14,6 +15,8 @@ public class WeaponManager : MonoBehaviour
 
         int previousSelectedWeapon = CurrentWeapon;
 
+        //Scroll wheel selecter
+        //up
         if (Input.GetAxis("Mouse ScrollWheel") > 0f)
         {
             if (CurrentWeapon >= transform.childCount - 1)
@@ -26,6 +29,7 @@ public class WeaponManager : MonoBehaviour
                 CurrentWeapon++;
             }
         }
+        //Down
         if (Input.GetAxis("Mouse ScrollWheel") < 0f)
         {
             if (CurrentWeapon <= 0)
@@ -39,6 +43,7 @@ public class WeaponManager : MonoBehaviour
             }
         }
 
+        //Keycode selector
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
             CurrentWeapon = 0;
@@ -59,6 +64,8 @@ public class WeaponManager : MonoBehaviour
             SelectWeapon();
         }
     }
+
+    //Weapon register
     void SelectWeapon()
     {
         int i = 0;
